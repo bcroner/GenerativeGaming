@@ -1,2 +1,3 @@
 # GenerativeGaming
-Gaming app that matches gameplay with the Hollywood Formulas Big Arc for character development and Three Act for plot development so people can play any kind of games they want, games that are automatically generated for them on the fly as they play them
+
+The funny thing is, you may have shut down Gemini on me, but you already have it with GCC (https://github.com/bcroner/GenerativeCinematicContinuity). Instead of gameplay with the Meta Ray Ban 3rd gen headset, your gameplay is with a flat screen and a controller of your choice! Do you really think the engineers at Amazon and Netflix are too retarded to do that? You fucks are already toast no matter what you do to me now!
